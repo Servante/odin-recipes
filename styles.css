@@ -1,0 +1,52 @@
+html {
+    background-color: blanchedalmond;
+
+}
+
+.content {
+    max-width: 500px;
+    margin: auto;
+}
+
+img {
+    width: 400px;
+    border-style:double;
+    display: block; 
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center
+}
+
+li {
+    font-size: large;
+    color: maroon
+}
+
+.ingredients {
+    background-color:darkgrey;
+    text-align:left;
+    border-style: groove;
+    margin-left:80px;
+    width: 350px
+}
+
+.steps {
+    color:black
+}
+
+.description {
+    
+}
+
+.profile {
+    width: 200px
+}
+
+/* .index {
+    text-align: center;
+    text-decoration: off
+} */
